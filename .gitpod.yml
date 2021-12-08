@@ -1,3 +1,2 @@
 image: 
     file: snakemake/snakemake
-    file: ncbi/blast
